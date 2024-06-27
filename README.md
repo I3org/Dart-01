@@ -1,2 +1,1 @@
-# Dart-01
-Primeiro contato com Dart
+A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
